@@ -26,7 +26,7 @@ else
         <h1>Congratulations - DESPLIEGE EN CODEPIPELINE AWS !</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
-        <p>Desplegado por Monica></p>
+        <p>Desplegado por Monica Morales></p>
     </section>
 
     <section class="instructions">
@@ -45,6 +45,8 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
+      
+       <h2>INTEXUS</h2>
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
